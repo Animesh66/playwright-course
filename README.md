@@ -10,7 +10,7 @@
 
 `npm i -D @playwright/test allure-playwright`
 
-Either add allure-playwright into playwright.config.ts:
+Either add `allure-playwright` into `playwright.config.ts`:
 
 `
 {
